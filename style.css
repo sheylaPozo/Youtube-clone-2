@@ -135,7 +135,9 @@ table {
 
 /* ======== end reset style ======= */
 
-body {}
+body {
+color: white;
+}
 
 
 .logo {
