@@ -696,6 +696,7 @@ footer {
 	border: none;
 	font-size: 1em;
 	font-weight: 500;
+	border: 1px solid black;
 }
 
 .button2:hover {
@@ -706,4 +707,8 @@ footer {
 
 main {
 	padding: 1em 0 1em 0;
+}
+p {
+	font-size: 21px;
+	background-color: yellow
 }
